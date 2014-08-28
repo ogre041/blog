@@ -39,4 +39,5 @@ gem 'spring',        group: :development
 # gem 'debugger', group: [:development, :test]
 
 gem 'rspec-rails', '~> 2.0'
+gem 'factory_girl_rails', '~> 4.0', :require => false
 
