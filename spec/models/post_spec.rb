@@ -1,6 +1,5 @@
 require 'spec_helper'
 
-Factory.create(:post).should be_valid
 FactoryGirl.create(:post).should be_valid
 
 describe Post do
