@@ -9,4 +9,5 @@ rvm:
 # uncomment this line if your project needs to run something other than `rake`:
 script: bundle install
 script: bundle exec rspec spec
-script: rspec -P spec/test_spec.rb
+script: rspec -P spec/test_spec222.rb
+# script: rspec -P spec/test_spec.rb
